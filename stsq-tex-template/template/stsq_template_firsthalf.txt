@@ -1,0 +1,8 @@
+\documentclass[kindlepaper]{BHCexam4kindle}
+\usepackage{lipsum}
+\begin{document}
+\printanswers % 我要打印答案
+	\biaoti{刷题神器}
+	\fubiaoti{}
+	\maketitle
+	\begin{questions}
